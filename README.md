@@ -8,10 +8,10 @@ Requires PHP and SQLite to be installed
 
 (script uses 'mike' and 'caroline' as 2 users names for clarity)
 
-Script includes 5 house states; home, away, holiday, mike arriving and caroline arriving
+Script includes 3 house states; home, away, holiday and 2 additional scenarios; mike arriving and caroline arriving
 
 
-Edit script with your Latitude user IDs, home postcode and code to run during different house states
+Edit script with your Latitude user IDs, home postcode and commands to run during different house states
 
 
 Make sure the php script can be executed:
